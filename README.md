@@ -49,7 +49,7 @@ This Flutter application serves as a mini widget catalog, demonstrating various 
 *   **`Theme.of(context)`:** Used extensively to access current theme properties and make UI elements adaptive.
 
 
-[Watch demo video](recored/mini_app.webm)
+[Watch demo video](recorded/mini_app.webm)
 
 
 ## Setup & Running
