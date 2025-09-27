@@ -54,6 +54,8 @@ This Flutter application serves as a mini widget catalog, demonstrating various 
 | Screen_light | ![Light](recored/screenshot_light.png) |
 | Screen_dark | ![Dark](recored/screenshot_dark.png) |
 
+[Watch demo video](recorded/mini_app.webm)
+
 
 ## Setup & Running
 
